@@ -1,3 +1,12 @@
+JS
+===
+ - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/Property_Accessors
+ - https://www.javascript.com/
+ - http://javascript.info/tutorial/basics
+
+
+
+
 Yii 2 Basic Project Template
 ============================
 
